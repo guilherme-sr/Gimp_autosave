@@ -1,4 +1,4 @@
-
+<h2>Gimp Autosave</h2>
 <p>Auto save for Gimp made in Python</p>
 <p><h4>I didn't made this, i've just fork it from this site:</h4>
 http://www.mail-archive.com/gimp-developer@lists.xcf.berkeley.edu/msg18118.html
@@ -10,6 +10,11 @@ http://www.mail-archive.com/gimp-developer@lists.xcf.berkeley.edu/msg18118.html
 <p>Just drop the <i>autosave.py</i> at the Gimp plugins folder</p>
 <a title="Wiki for Windows install place" href="https://en.wikibooks.org/wiki/GIMP/Installing_Plugins#Windows">Windows</a><br />
 <a tittle="Wiki for GNU/Linux install place" href="https://en.wikibooks.org/wiki/GIMP/Installing_Plugins#GNU.2FLinux">GNU/Linux</a>
+<br />
+<br />
+<p><h3>Running</h3></p>
+<p>Just go to at Gimp:</p>
+<p><i>Files > Activate Autosave</i></p>
 <br />
 <br />
 <p><h3>Save Place</h3></p>
